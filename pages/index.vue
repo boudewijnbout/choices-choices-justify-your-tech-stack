@@ -1,3 +1,4 @@
 <template>
-    <h1>Homepage</h1>
+	<IndexComponentsHero />
+	<IndexComponentsStandardSection />
 </template>
