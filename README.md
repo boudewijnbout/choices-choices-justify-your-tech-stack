@@ -1,26 +1,42 @@
-> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# Nuxt 3 Minimal Starter
 
-# Justify your Tech-stack
+Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
-Verantwoord en presenteer je keuze voor een tech-stack.
+## Setup
 
-<!-- Haal bovenstaande tekst weg! -->
+Make sure to install the dependencies:
 
+```bash
+# yarn
+yarn install
 
-<!-- Schrijf een mooie inleiding, beschrijf minstens de aanleiding - waarom doe je deze opdracht - en de tech-stack die je onderzoekt. Beschrijf daarna heel kort de stappen bij 2, 3, 4 en 5. -->
+# npm
+npm install
 
-<!-- Beschrijf in een alinea de conclusie en belangrijkste inzichten met betrekking tot de gebruikservaring (UX) -->
+# pnpm
+pnpm install --shamefully-hoist
+```
 
-<!-- Beschrijf in een alinea de conclusie en belangrijkste inzichten met betrekking tot de ontwikkelervaring (DX) -->
+## Development Server
 
-<!-- Beschrijf in een alinea de conclusie en belangrijkste inzichten met betrekking tot de content management ervaring (CMX) -->
+Start the development server on http://localhost:3000
 
-<!-- Neem als conclusie een alinea op waarin je de voorwaarden benoemd die deze tech-stack aan de betrokken partijen stelt. -->
+```bash
+npm run dev
+```
 
-<!-- De licentie hieronder mag je ook weg halen, of laten staan, wat je wilt -->
+## Production
 
-## Licentie
+Build the application for production:
 
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
+```bash
+npm run build
+```
 
-This work is licensed under [GNU GPLv3](./LICENSE).
+Locally preview production build:
+
+```bash
+npm run preview
+```
+
+Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
