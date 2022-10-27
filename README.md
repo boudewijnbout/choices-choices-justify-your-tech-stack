@@ -1,8 +1,6 @@
 # 🤖 Justify your tech stack
 Opdracht: CMD Midterm
 
-In de [wiki](https://github.com/boudewijnbout/lose-your-head-team-lead/wiki) is te vinden hoe ik als team lead de code en design reviews, sprint reviews en standups & wrapups heb uitgevoerd. Hierbij heb ik de verschillende zaken die tijdens de reviews en gesprekken zijn besproken gedocumenteerd.
-
 In de [wiki]() is mijn tech stack onderzoek te vinden waarin ik `Nuxt3` eens onder de loep neem op het gebied van: UX (user experience) DX (developer experience) en CMX (content management experience). In mijn onderzoek bekijk ik hoe ieder van deze experiences zich vertalen in de door mij gekozen tech stack.
 
 ## Licentie
