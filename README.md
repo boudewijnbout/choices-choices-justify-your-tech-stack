@@ -1,7 +1,7 @@
 # 💻 Justify your tech stack
 Opdracht: CMD Midterm
 
-In de [wiki]() is mijn tech stack onderzoek te vinden waarin ik `Nuxt3` eens onder de loep neem op het gebied van: UX (user experience) DX (developer experience) en CMX (content management experience). In mijn onderzoek bekijk ik hoe ieder van deze experiences zich vertalen in de door mij gekozen tech stack.
+In de [wiki](https://github.com/boudewijnbout/choices-choices-justify-your-tech-stack/wiki) is mijn tech stack onderzoek te vinden waarin ik `Nuxt3` eens onder de loep neem op het gebied van: UX (user experience) DX (developer experience) en CMX (content management experience). In mijn onderzoek bekijk ik hoe ieder van deze experiences zich vertalen in de door mij gekozen tech stack.
 
 ## Licentie
 
