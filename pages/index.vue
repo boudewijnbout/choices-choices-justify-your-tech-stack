@@ -1,4 +1,0 @@
-<template>
-	<IndexComponentsHero />
-	<IndexComponentsStandardSection />
-</template>
